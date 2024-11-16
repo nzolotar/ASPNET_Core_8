@@ -7,3 +7,5 @@
 /ASPNetCoreWebAPI/obj
 /ASPNetCoreWebAPI/.config
 /ASPNetCoreWebAPI/bin/Debug/net8.0
+/GameStore_Backend/src/GameStore.Api/obj
+/GameStore_Backend/src/GameStore.Api/bin
